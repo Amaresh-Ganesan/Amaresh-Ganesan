@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amaresh Ganesan!
 
-🔗 [LinkedIn](https://linkedin.com/in/amaresh-ganesan) | 💻 [GitHub](https://github.com/Amaresh-Ganesan) | ✉️ amaresh.ganesanoff@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/amaresh-ganesan) |  ✉️ amaresh.ganesanoff@gmail.com
 
 ## 🌟 About Me
 I'm a passionate developer specializing in leveraging advanced technologies. My interests and expertise include:
